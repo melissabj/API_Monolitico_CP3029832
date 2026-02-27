@@ -21,6 +21,12 @@ npm init -y
 ```bash
 npm install express sqlite3
 ```
+
+ou apenas utilizar:
+
+```bash
+npm install
+```
    
 ## 4. Executar aplicação
 
