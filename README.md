@@ -36,3 +36,5 @@ node src/app.js
 
 A API deverá rodar em:
 http://localhost:3000
+
+Verificar todos os métodos pelo thunderclient.
